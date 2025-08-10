@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**TheGhostAnalyst/TheGhostAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👻 The Ghost Analyst
 
-Here are some ideas to get you started:
+*16 years old Self-taught Aspiring Recon Scripter | Python Automation | OSINT Explorer*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I’m *The Ghost Analyst*.  
+I build Python tools that make recon faster, sharper, and more automated — because in cyber, speed and precision win.
+
+---
+
+## 🚀 Current Projects
+- **FriendZone CLI** – Login simulation app with friends list feature.
+- **OSINT Regex Scraper** – Extract and classify intel from raw text.
+- **Google Dorking Arsenal** – Search operators toolkit.
+- **Python CLI Penalty kick game** - Striker and Keeper mode with text commentary.
+
+---
+
+## 📅 Daily Learning Log
+I commit daily what I’ve learned — from Python tricks to OSINT methods.  
+Check my [Daily-Log repo](https://github.com/TheGhostAnalyst/Daily-Log).
+
+---
+
+> *"Stay unseen. Stay learning."*
