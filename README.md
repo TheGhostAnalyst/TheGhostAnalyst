@@ -16,7 +16,7 @@ I build Python tools that make recon faster, sharper, and more automated — bec
 - **Python CLI Penalty kick game** - Striker and Keeper mode with text commentary.
 - **Form Validator Test Tool** - Useful for testing and understanding format of form application.
 - **Python Multiplication Quiz** - Useful for undrstanding how loops work and also how to catch limit and timeout PyInputPlus errors. As a user it'd good for time             management and accuracy
-- How to make an idiot busy for hours - Its a tool that most people fall for coz everyone want to know how to keep an idiot busy
+- **How to make an idiot busy for hours** - Its a tool that most people fall for coz everyone want to know how to keep an idiot busy
 ---
 
 ## 📅 Daily Learning Log
