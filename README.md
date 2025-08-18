@@ -18,6 +18,7 @@ I build Python tools that make recon faster, sharper, and more automated — bec
 - **Python Multiplication Quiz** - Useful for undrstanding how loops work and also how to catch limit and timeout PyInputPlus errors. As a user it'd good for time             management and accuracy
 - **How to make an idiot busy for hours** - Its a tool that most people fall for coz everyone want to know how to keep an idiot busy 
 - **Google Dorker** - Helps to get easy formats for google dorking and also automate google dorking tasks faster
+- **Web bot Scraper** - Helps to extract links and emails from a website without really interacting with the website
 ---
 
 ## 📅 Daily Learning Log
