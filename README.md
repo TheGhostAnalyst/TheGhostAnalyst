@@ -19,6 +19,7 @@ I build Python tools that make recon faster, sharper, and more automated — bec
 - **How to make an idiot busy for hours** - Its a tool that most people fall for coz everyone want to know how to keep an idiot busy 
 - **Google Dorker** - Helps to get easy formats for google dorking and also automate google dorking tasks faster
 - **Web bot Scraper** - Helps to extract links and emails from a website without really interacting with the website
+- **Basic CLI Calculator** - Helps to solve basic maths operations in a swift and efficient manner
 ---
 
 ## 📅 Daily Learning Log
