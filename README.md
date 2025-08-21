@@ -24,7 +24,7 @@ I build Python tools that make recon faster, sharper, and more automated — bec
 - **[How to Keep an Idiot Busy](#)** – A clever prank that proves itself 😄  
 - **[Google Dorker Tool](#)** – Auto-generates Google dorking formats  
 - **[Web Bot Scraper](#)** – Extract links and emails from any site stealthily  
-- **[Basic CLI Calculator](#)** – Perform basic math operations quickly
+- **[Basic CLI Calculator](#)** – Perform basic math operations quickly and logarithm also
 
 > 📝 You can find many of these in my pinned repositories or by browsing my profile.
 
