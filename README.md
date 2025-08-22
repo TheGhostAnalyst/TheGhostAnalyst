@@ -25,6 +25,7 @@ I build Python tools that make recon faster, sharper, and more automated — bec
 - **[Google Dorker Tool](#)** – Auto-generates Google dorking formats  
 - **[Web Bot Scraper](#)** – Extract links and emails from any site stealthily  
 - **[Basic CLI Calculator](#)** – Perform basic math operations quickly and logarithm also
+- **[Basic Password Manager](#)** - Writes to a file, reads and lists passwords from a file
 
 > 📝 You can find many of these in my pinned repositories or by browsing my profile.
 
