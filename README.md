@@ -32,7 +32,7 @@ I build Python tools that make recon faster, sharper, and more automated — bec
 
 ## 📚 Daily Learning Log
 
-I commit daily to my [Daily-Log](https://github.com/TheGhostAnalyst/Daily-Log) — sharing what I’ve learned about Python, recon methods, OSINT tricks, and more.
+I commit daily to my [Daily-Logs](https://github.com/TheGhostAnalyst/Daily-Logs) — sharing what I’ve learned about Python, recon methods, OSINT tricks, and more.
 
 ---
 
