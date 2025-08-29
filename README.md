@@ -25,7 +25,13 @@ I build Python tools that make recon faster, sharper, and more automated — bec
 - **[Google Dorker Tool](#)** – Auto-generates Google dorking formats  
 - **[Web Bot Scraper](#)** – Extract links and emails from any site stealthily  
 - **[Basic CLI Calculator](#)** – Perform basic math operations quickly and logarithm also
-- **[Basic Password Manager](#)** - Writes to a file, reads and lists passwords from a file
+- **[Basic Password Manager](#)** - Writes to a database, reads and lists passwords from a database
+- **[Password Generator](#)** - Generates random passwords and also asks how many passwords and the length of each passwords
+- **[Lightshot link generator](#)** - Generates random lightshot links and asks if to save to file or database and also asks to open in browser
+- **[Google Dorker](#)** - Asks to whether generate random dorks to open in browser, check for google dorks for beginners, input custom dorks you want to open yourself and also teaches ethics and guidelines concerning google dorking
+- **[Contact Saver](#)** - Asks to input contact information of a person you want to save details for to a database and you can also search for contacts you have saved so far
+- **[OSINT Report Database Template Manager](#)** - Asks to input all gathered information about a target and also asks for title in case of reading it back from database
+- **[Clipboard Logger](#)** - It helps to store any copied text from clipboard and saves to database and also asks you to check for saved clipboard contents saved to the database
 
 > 📝 You can find many of these in my pinned repositories or by browsing my profile.
 
