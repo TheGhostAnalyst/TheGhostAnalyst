@@ -24,7 +24,7 @@ I build Python tools that make recon faster, sharper, and more automated — bec
 - **[How to Keep an Idiot Busy](https://www.github.com/TheGhostAnalyst/Keep-An-Idiot-Busy)** – A clever prank that proves itself 😄  
 - **[Google Dorker Tool](https://www.github.com/TheGhostAnalyst/google_dorker)** – Auto-generates Google dorking formats  
 - **[Web Bot Scraper](https://www.github.com/TheGhostAnalyst/web_scrapper)** – Extract links and emails from any site stealthily  
-- **[Basic CLI Calculator](https://www.github.com/TheGhostAnalyst/calculator)** – Perform basic math operations quickly and logarithm also
+- **[Basic CLI Calculator](https://www.github.com/TheGhostAnalyst/calculator)** – Perform basic math operations quickly and logarithm. Also Saves result to a database for easy recovery of calculation history
 - **[Basic Password Manager](https://www.github.com/TheGhostAnalyst/password-manager)** - Writes to a file, reads and lists passwords from a file
 - **[Password Generator](https://www.github.com/TheGhostAnalyst/PasswordGenerator)** - Generates random passwords and also asks how many passwords and the length of each passwords
 - **[Lightshot link generator](https://www.github.com/TheGhostAnalyst/Lightshot-opener)** - Generates random lightshot links and asks if to save to file or database and also asks to open in browser
