@@ -77,18 +77,6 @@ If you're into OSINT, Python scripting, or just want to talk tools — feel free
 git clone https://github.com/TheGhostAnalyst
 ```
 > "Hack with purpose. Learn with fire. Stay unseen."
-— The Ghost Analyst| Project                                                                              | Description                                         | Language
-
-### Here are my pinned projects
-| ------------------------------------------------------------------------------------ | --------------------------------------------------- | -------- |
-| 🔒 [**GhostLock Encryptor**](https://github.com/TheGhostAnalyst/GhostLock_Encryptor) | Encryptor and Decryptor tool (all-in-one)           | Python   |
-| 🧬 [**OSINT Regex Scraper**](https://github.com/TheGhostAnalyst/OSINTRegexScraper)   | Regex-based tool to extract classified intelligence | Python   |
-| 🕵️ [**Google Dorker**](https://github.com/TheGhostAnalyst/google_dorker)            | Automates Google dorking tasks                      | Python   |
-| 📸 [**Lightshot Opener**](https://github.com/TheGhostAnalyst/Lightshot-opener)       | Opens random Lightshot image links                  | Python   |
-| 🔑 [**Password Generator**](https://github.com/TheGhostAnalyst/passwordGenerator)    | Random and strong password generator                | Python   |
-| 🌐 [**Web Scraper**](https://github.com/TheGhostAnalyst/web_scraper)                 | Extracts emails and URLs from websites              | Python   |
-
-
 
 📈 See my full contribution history [on GitHub →](https://github.com/TheGhostAnalyst)
 
