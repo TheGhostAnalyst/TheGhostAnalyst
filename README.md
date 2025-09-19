@@ -33,6 +33,7 @@ I build Python tools that make recon faster, sharper, and more automated — bec
 - **[OSINT Report Database Template Manager](https://github.com/TheGhostAnalyst/osint-report-db)** - Asks to input all gathered information about a target and also asks for title in case of reading it back from database
 - **[Clipboard Logger](https://www.github.com/TheGhostAnalyst/clipboard-logger)** - It helps to store any copied text from clipboard and saves to database and also asks you to check for saved clipboard contents saved to the database
 - **[Password Manager v2](https://www.github.com/TheGhostAnalyst/password-manager-v2)** - It helps to store passwords in a database better than v1 and also allows you to search for passwords using app name set for the password saver from database
+- **[Football News Scraper Bot](https://www.github.com/TheGhostAnalyst/NewsScraperBot)** - It helps to get new football news and sends to telegram bot automated with telegram's API
 
 > 📝 You can find many of these in my pinned repositories or by browsing my profile.
 
