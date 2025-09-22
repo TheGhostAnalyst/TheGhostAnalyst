@@ -37,13 +37,6 @@ I build Python tools that make recon faster, sharper, and more automated — bec
 
 > 📝 You can find many of these in my pinned repositories or by browsing my profile.
 
----
-
-## 📚 Daily Learning Log
-
-I commit daily to my [Daily-Logs](https://github.com/TheGhostAnalyst/Daily-Logs) — sharing what I’ve learned about Python, recon methods, OSINT tricks, and more.
-
----
 
 ## 🌱 Currently Exploring
 
